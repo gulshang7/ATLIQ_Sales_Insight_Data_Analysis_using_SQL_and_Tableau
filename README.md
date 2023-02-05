@@ -5,47 +5,48 @@ ATLIQ SALES INSIGHT – DATA ANALYSIS USING SQL AND TABLEAU
 
 About Project:
 
-•	Performed India based hardware company sales insights - A Data Analysis project.
+        •	Performed India based hardware company sales insights - A Data Analysis project.
 
-•	Developed ETL mappings using SQL to extract the data from unstructured data and transformed it to the staging area to conduct data cleaning and design star schema data model on Tableau.
+        •	Developed ETL mappings using SQL to extract the data from unstructured data and transformed it to the staging area to conduct data cleaning and design star schema data model on Tableau.
 
-•	Developed a Tableau dashboard to perform analysis, producing quantitative visualizations in Tableau to draw valuable insights based on different parameters affecting the company performance year on year and further provide business solutions.
+        •	Developed a Tableau dashboard to perform analysis, producing quantitative visualizations in Tableau to draw valuable insights based on different parameters affecting the company performance year on year and further provide business solutions.
 
 
 About ATLIQ: 
 
-•	AtliQ Hardware is Computer Hardware and peripheral Manufacture company.
+        •	AtliQ Hardware is Computer Hardware and peripheral Manufacture company.
 
 
 Technologies Used: 
 
-•	Advance Excel
+        •	Advance Excel
 
-•	MySQL | SQL Server
+        •	MySQL | SQL Server
 
-•	Tableau
+        •	Tableau
 
-•	Statistics
+        •	Statistics
 
 
 PROBLEM STATEMENTS:
 
 Sales director wants to know the performance of the company in various Indian states & accordingly provide some discount.
 
-Q1. Revenue breakdown by cities.
+        Q1. Revenue breakdown by cities.
 
-Q2. Revenue breakdown by years & months. 
+        Q2. Revenue breakdown by years & months. 
 
-Q3. Top 5 customers by revenue & sales quantity.
+        Q3. Top 5 customers by revenue & sales quantity.
 
-Q4. Top 5 Products by revenue.
+        Q4. Top 5 Products by revenue.
 
-Q5. Net Profit & Profit Margin by Market.
+        Q5. Net Profit & Profit Margin by Market.
 
 
 APPROACH - PROJECT PLANNING & AIMS GRID
 
 1. Purpose: What? Why? What do we want to achieve?
+
 To unlock sales insights that are not visible before for sales team for decision support & automate them to reduced manual time spent in data gathering.
 
 2. Stake Holders: Who will be involved?
@@ -72,6 +73,7 @@ An automated dashboard providing quick & latest sales insights in order to suppo
 
 
 DATA ANALYST APPROACH:
+
 ![image](https://user-images.githubusercontent.com/124501309/216817831-a0750663-c931-45d6-8518-28bb4c57a5af.png)
 
 
@@ -113,11 +115,18 @@ DATA ANALYSIS USING TABLEAU:
 Tableau Public Dashboards: Revenue & Profit Analysis Tableau
 Creating Star Schema in Tableau
 
+![image](https://user-images.githubusercontent.com/124501309/216817919-d2377269-7a72-4a35-9350-8c7cd49da89c.png)
+
  
 
 Tableau Dashboard: Revenue Analysis
- 
+
+![image](https://user-images.githubusercontent.com/124501309/216817944-cd9fc2c9-4088-40a6-9495-eee5ddeb7d14.png)
+
 Tableau Dashboard: Profit Analysis
+
+![image](https://user-images.githubusercontent.com/124501309/216817956-7aad091d-b2d9-4503-ad28-e592b0855b24.png)
+
  
 
 

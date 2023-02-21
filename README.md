@@ -1,4 +1,4 @@
-# ATLIQ-Sales-Insight-Data-Analysis-using-SQL-and-TABLEAU
+# ATLIQ-Sales-Insight:Data-Analysis-using-SQL-and-TABLEAU
 PROJECT NAME: 
 
 ATLIQ SALES INSIGHT – DATA ANALYSIS USING SQL AND TABLEAU

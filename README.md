@@ -136,8 +136,6 @@ Creating Star Schema in Tableau
 
 ![image](https://user-images.githubusercontent.com/124501309/216817919-d2377269-7a72-4a35-9350-8c7cd49da89c.png)
 
- 
-
 Tableau Dashboard: Revenue Analysis
 
 ![image](https://user-images.githubusercontent.com/124501309/216817944-cd9fc2c9-4088-40a6-9495-eee5ddeb7d14.png)
@@ -146,6 +144,7 @@ Tableau Dashboard: Profit Analysis
 
 ![image](https://user-images.githubusercontent.com/124501309/216817956-7aad091d-b2d9-4503-ad28-e592b0855b24.png)
 
- 
+NOTE:
 
+I have uploaded all the files, datasets, workbook, icons above. Feel free to use this Project's resourses for your next Project. If you like this Project and Dashboard give it a Star or just tell me. It'll make me feel Good :)
 

@@ -140,9 +140,17 @@ Tableau Dashboard: Revenue Analysis
 
 ![image](https://user-images.githubusercontent.com/124501309/216817944-cd9fc2c9-4088-40a6-9495-eee5ddeb7d14.png)
 
+https://user-images.githubusercontent.com/124501309/222756968-8c0c1865-285b-466f-a4bd-9c4da35556c5.mp4
+
 Tableau Dashboard: Profit Analysis
 
 ![image](https://user-images.githubusercontent.com/124501309/216817956-7aad091d-b2d9-4503-ad28-e592b0855b24.png)
+
+
+
+https://user-images.githubusercontent.com/124501309/222757161-a599a815-60c6-4036-a576-3b4a213d868a.mp4
+
+
 
 NOTE:
 

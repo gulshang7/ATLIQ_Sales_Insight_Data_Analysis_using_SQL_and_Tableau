@@ -1,13 +1,13 @@
 # ATLIQ-Sales-Insight : Data-Analysis-using-SQL-and-TABLEAU
 
 ## OVERVIEW:
-        PROJECT NAME
-        PROBLEM STATEMENTS
-        APPROACH - PROJECT PLANNING & AIMS GRID
-        DATA ANALYST APPROACH
-        DATA ANALYSIS USING SQL
-        DATA ANALYSIS USING TABLEAU
-        NOTE
+    PROJECT NAME
+    PROBLEM STATEMENTS
+    APPROACH - PROJECT PLANNING & AIMS GRID
+    DATA ANALYST APPROACH
+    DATA ANALYSIS USING SQL
+    DATA ANALYSIS USING TABLEAU
+    NOTE
 
 ## PROJECT NAME: 
 
@@ -15,7 +15,7 @@ ATLIQ SALES INSIGHT – DATA ANALYSIS USING SQL AND TABLEAU
 
 About Project:
 
-        •	Performed India based hardware company sales insights - A Data Analysis project.
+        •	Performed Data Cleaning, Analysing and Visualization on India based hardware company sales insights.
 
         •	Developed ETL mappings using SQL to extract the data from unstructured data and 
                 transformed it to the staging area to conduct data cleaning and design star 
@@ -146,7 +146,7 @@ Creating Star Schema in Tableau
 
 ![image](https://user-images.githubusercontent.com/124501309/216817919-d2377269-7a72-4a35-9350-8c7cd49da89c.png)
 
-Tableau Dashboard: Revenue Analysis
+### Tableau Dashboard: Revenue Analysis
 
 ![image](https://user-images.githubusercontent.com/124501309/222758757-53ebef06-c95d-4aa1-bd16-cb38b2d2dfd8.png)
 
@@ -154,7 +154,7 @@ Tableau Dashboard: Revenue Analysis
 
 https://user-images.githubusercontent.com/124501309/222756968-8c0c1865-285b-466f-a4bd-9c4da35556c5.mp4
 
-Tableau Dashboard: Profit Analysis
+### Tableau Dashboard: Profit Analysis
 
 ![image](https://user-images.githubusercontent.com/124501309/222758196-8164d673-9904-4ed7-9e29-d97e6bf9517d.png)
 

@@ -1,5 +1,14 @@
 # ATLIQ-Sales-Insight : Data-Analysis-using-SQL-and-TABLEAU
 
+## OVERVIEW:
+        PROJECT NAME
+        PROBLEM STATEMENTS
+        APPROACH - PROJECT PLANNING & AIMS GRID
+        DATA ANALYST APPROACH
+        DATA ANALYSIS USING SQL
+        DATA ANALYSIS USING TABLEAU
+        NOTE
+
 ## PROJECT NAME: 
 
 ATLIQ SALES INSIGHT – DATA ANALYSIS USING SQL AND TABLEAU
@@ -92,7 +101,7 @@ Setup Process:
     •	Step 5: Save the file as (.twb or .twbx).
 
 
-## Data Analysis Using SQL:
+## DATA ANALYSIS USING SQL:
 
     • Show all customer records
                

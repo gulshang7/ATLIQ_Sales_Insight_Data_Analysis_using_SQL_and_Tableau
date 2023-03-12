@@ -1,5 +1,6 @@
 # ATLIQ-Sales-Insight : Data-Analysis-using-SQL-and-TABLEAU
-PROJECT NAME: 
+
+## PROJECT NAME: 
 
 ATLIQ SALES INSIGHT – DATA ANALYSIS USING SQL AND TABLEAU
 
@@ -32,7 +33,7 @@ Technologies Used:
         •	Statistics
 
 
-PROBLEM STATEMENTS:
+## PROBLEM STATEMENTS:
 
 Sales director wants to know the performance of the company in various Indian states & accordingly provide some discount.
 
@@ -47,7 +48,7 @@ Sales director wants to know the performance of the company in various Indian st
         Q5. Net Profit & Profit Margin by Market.
 
 
-APPROACH - PROJECT PLANNING & AIMS GRID
+## APPROACH - PROJECT PLANNING & AIMS GRID
 
 1. Purpose: What? Why? What do we want to achieve?
 
@@ -72,7 +73,7 @@ APPROACH - PROJECT PLANNING & AIMS GRID
          •	Sales analysts stop data gathering manually in order to save 20% of their business time & reinvest it in value added activity.
 
 
-DATA ANALYST APPROACH:
+## DATA ANALYST APPROACH:
 
 ![image](https://user-images.githubusercontent.com/124501309/216817831-a0750663-c931-45d6-8518-28bb4c57a5af.png)
 
@@ -91,7 +92,7 @@ Setup Process:
     •	Step 5: Save the file as (.twb or .twbx).
 
 
-Data Analysis Using SQL:
+## Data Analysis Using SQL:
 
     • Show all customer records
                
@@ -129,7 +130,7 @@ Data Analysis Using SQL:
                where date.year=2020 and and date.month_name="January" and (transactions.currency="INR\r" or transactions.currency="USD\r");
 
 
-DATA ANALYSIS USING TABLEAU:
+## DATA ANALYSIS USING TABLEAU:
 
 Tableau Public Dashboards: Revenue & Profit Analysis Tableau
 Creating Star Schema in Tableau
@@ -154,7 +155,7 @@ https://user-images.githubusercontent.com/124501309/222757161-a599a815-60c6-4036
 
 
 
-NOTE:
+## NOTE:
 
 I have uploaded all the files, datasets, workbook, icons above. Feel free to use this Project's resourses for your next Project. If you like this Project and Dashboard give it a Star or just tell me. It'll make me feel Good :)
 

@@ -1,5 +1,7 @@
 # ATLIQ-Sales-Insight : Data-Analysis-using-SQL-and-TABLEAU
 
+[Go to my LinkedIn](https://www.linkedin.com/in/gulshan-gedam-362905209/) 🌐
+
 ## OVERVIEW:
     PROJECT NAME
     PROBLEM STATEMENTS
@@ -168,3 +170,4 @@ https://user-images.githubusercontent.com/124501309/222757161-a599a815-60c6-4036
 
 I have uploaded all the files, datasets, workbook, icons above. Feel free to use this Project's resourses for your next Project. If you like this Project and Dashboard give it a Star or just tell me. It'll make me feel Good :)
 
+[Go to my LinkedIn](https://www.linkedin.com/in/gulshan-gedam-362905209/) 🌐

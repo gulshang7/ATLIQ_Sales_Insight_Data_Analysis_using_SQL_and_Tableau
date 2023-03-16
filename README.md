@@ -160,10 +160,17 @@ https://user-images.githubusercontent.com/124501309/222756968-8c0c1865-285b-466f
 
 ![image](https://user-images.githubusercontent.com/124501309/222758196-8164d673-9904-4ed7-9e29-d97e6bf9517d.png)
 
-
-
 https://user-images.githubusercontent.com/124501309/222757161-a599a815-60c6-4036-a576-3b4a213d868a.mp4
 
+## RECOMMENDATION:
+
+Based on the dashboards Insights:
+
+  1) Should Maintain healthy relationship with the customers in Bhubaneshwar, Hyderabad, Chennai as they are highest profit % by market.
+  2) Make some stategy for Lucknow market as its revenue are less and also profit % are in negative.
+  3) Figure out what need to be done as sales quantity in Kanpur, Surat, Patna, Bhubaneshwar, Chennai are the lowest.
+  4) North zone have highest revenue contribution but lowest profit % whereas South zone have lowest revenue contribution but highest profit %. Try to increase customers in South zone.
+  5) Delhi is the highest revenue contibutor and second highest profit contributor whereas Mumbai is the second highest revenue contributor and highest profit contributor. So its need to be implement the same market strategy as in mumbai to increase the profit % in Delhi.
 
 
 ## NOTE:
